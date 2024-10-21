@@ -15,45 +15,52 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am **Amog Rao**, a Junior Year BTech Student at Plaksha Univesity, majoring in Computer Science and Artificial Intelligence. 
+I am **Amog Rao**, a Junior Year BTech Student at Plaksha Univesity, majoring in Computer Science and Artificial Intelligence. I am interested in anything that makes my brain sweat or has community impact. I find a good intersection in the use of **AI/ML in Healthcare or Education**! And a way to translate that interest into a meaningful outputs is to have deployable solutions, open-source projects, or research papers that could be used by the community.
+
+I am currently working on two Deep Learning projects that revolve around (1) Geospatial Analysis of Lakes and (2) Lesion Segmentation within Neonatal Brains.
 
 ## 🌱 Interests
-- Artificial Intelligence
 - Machine Learning
+- Deep Learning
 - Computer Vision
-- Data Science
-- Software Development
-- Geospatial Analysis
+- AI in Health
+- AI in Education
+- Product Development
 
-## 🔧 Technologies & Tools
+<!--## 🔧 Technologies & Tools
 - Python
 - TensorFlow
 - Keras
 - OpenCV
 - Git & GitHub
 - SQL
-- [Add any other relevant technologies or tools you use]
+- [Add any other relevant technologies or tools you use] -->
 
 ## 🚀 Projects
 Here are some of my notable projects:
 
-1. **[Multi-Label Road Pattern Classification](https://github.com/yourusername/project-repo1)**
+*Note to interviewers:
+
+1. **[Multi-Label Urban Road Morphology Classification Using Deep Learning](https://github.com/yourusername/project-repo1)**
+   - Developed deep learning models to classify Indian road patterns, achieving improved generalizability through transfer learning and data augmentation techniques.
+  
+2. **[Pneumothorax Segmentation with Bone Suppression](https://github.com/yourusername/project-repo1)**
    - Developed deep learning models to classify Indian road patterns, achieving improved generalizability through transfer learning and data augmentation techniques.
 
-2. **[AutoParcel](https://github.com/yourusername/project-repo2)**
+3. **[AutoParcel](https://github.com/yourusername/project-repo2)**
+   - Co-led the development of a secure parcel management system deployed at Plaksha University, optimizing parcel logging and collection processes, resulting in significant time reductions and increased user satisfaction.
+  
+4. **[Unified Health Interface](https://github.com/yourusername/project-repo2)**
    - Co-led the development of a secure parcel management system deployed at Plaksha University, optimizing parcel logging and collection processes, resulting in significant time reductions and increased user satisfaction.
 
-3. **[Satellite-Based Time Series Lake Size Monitoring](https://github.com/yourusername/project-repo3)**
-   - Working on lake segmentation models using remote sensing data, enhancing model accuracy through novel preprocessing methods and achieving a Dice score of 0.78.
-
-4. **[Custom Memory Allocator](https://github.com/yourusername/project-repo4)**
-   - Implemented a custom memory allocator in C, focusing on debugging support and memory management techniques.
-
-5. **[City Path Optimization](https://github.com/yourusername/project-repo5)**
+5. **[TaskLabs - Pyodide](https://github.com/yourusername/project-repo5)**
+   - Developed a perturbation-based algorithm to optimize city pathfinding, analyzing cost efficiency and performance.
+     
+6. **[BookMyShow - Database Schema](https://github.com/yourusername/project-repo5)**
    - Developed a perturbation-based algorithm to optimize city pathfinding, analyzing cost efficiency and performance.
 
 ## 📫 Get in Touch
-Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/yourprofile) or email me at [your.email@example.com]. I'm always open to discussing new ideas and collaborations!
+Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/amog-rao) or email me at [amog.rao@plaksha.edu.in]. I'm always open to discussing new ideas and collaborations!
 
 Thanks for stopping by! 😊
 
