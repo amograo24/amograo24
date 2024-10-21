@@ -50,7 +50,7 @@ Here are some of my notable projects:
 3. **[AutoParcel](https://github.com/amograo24/AutoParcelNext)**
    - Co-led the development of a secure parcel management system deployed at Plaksha University, optimizing parcel logging and collection processes, resulting in significant time reductions and increased user satisfaction.
   
-4. **[Unified Health Interface](https://github.com/yourusername/project-repo2)**
+4. **[Unified Health Interface](https://github.com/amograo24/hpe2022)**
    - Co-led the development of a secure parcel management system deployed at Plaksha University, optimizing parcel logging and collection processes, resulting in significant time reductions and increased user satisfaction.
 
 5. **[TaskLabs](https://github.com/amograo24/TaskLabs-Public)**
