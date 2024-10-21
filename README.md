@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 I am **Amog Rao**, a Junior Year BTech Student at Plaksha Univesity, majoring in Computer Science and Artificial Intelligence. I am interested in anything that makes my brain sweat or has community impact. I find a good intersection in the use of **AI/ML in Healthcare or Education**! And a way to translate that interest into a meaningful outputs is to have deployable solutions, open-source projects, or research papers that could be used by the community.
 
-I am currently working on two Deep Learning projects that revolve around (1) Geospatial Analysis of Lakes and (2) Lesion Segmentation within Neonatal Brains.
+I am currently working on two Deep Learning projects that revolve around (1) **Geospatial Analysis of Lakes** and (2) **Lesion Segmentation within Neonatal Brains**.
 
 ## 🌱 Interests
 - Machine Learning
