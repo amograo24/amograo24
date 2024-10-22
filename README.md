@@ -27,6 +27,8 @@ I am currently working on two Deep Learning projects that revolve around (1) **G
 - AI in Education
 - Product Development
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=amograo24)](https://git.io/streak-stats)
+
 <!--## 🔧 Technologies & Tools
 - Python
 - TensorFlow
