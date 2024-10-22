@@ -37,30 +37,30 @@ I am currently working on two Deep Learning projects that revolve around (1) **G
 - [Add any other relevant technologies or tools you use] -->
 
 ## 🚀 Projects
-Here are some of my notable projects:
+Here are some of my projects:
 
-*Note to interviewers:
+**Note to interviewers: Due to the confidentiality of certain projects and ongoing publications, only shareable components of these projects have been included on GitHub.*
 
 1. **[Multi-Label Urban Road Morphology Classification Using Deep Learning](https://github.com/amograo24/IISc-Road-Morphology-Classification)**
-   - Developed deep learning models to classify Indian road patterns, achieving improved generalizability through transfer learning and data augmentation techniques.
+   <!--- Developed deep learning models to classify Indian road patterns, achieving improved generalizability through transfer learning and data augmentation techniques. -->
   
 2. **[Pneumothorax Segmentation with Bone Suppression](https://github.com/Pneumothorax-Segmentation-Model/Pneumothorax-Segmentation)**
-   - Developed deep learning models to classify Indian road patterns, achieving improved generalizability through transfer learning and data augmentation techniques.
+   <!--- Developed deep learning models to classify Indian road patterns, achieving improved generalizability through transfer learning and data augmentation techniques. -->
 
 3. **[AutoParcel](https://github.com/amograo24/AutoParcelNext)**
-   - Co-led the development of a secure parcel management system deployed at Plaksha University, optimizing parcel logging and collection processes, resulting in significant time reductions and increased user satisfaction.
+   <!--- Co-led the development of a secure parcel management system deployed at Plaksha University, optimizing parcel logging and collection processes, resulting in significant time reductions and increased user satisfaction. -->
   
 4. **[Unified Health Interface](https://github.com/amograo24/hpe2022)**
-   - Co-led the development of a secure parcel management system deployed at Plaksha University, optimizing parcel logging and collection processes, resulting in significant time reductions and increased user satisfaction.
+   <!-- Co-led the development of a secure parcel management system deployed at Plaksha University, optimizing parcel logging and collection processes, resulting in significant time reductions and increased user satisfaction. -->
 
 5. **[TaskLabs](https://github.com/amograo24/TaskLabs-Public)**
-   - Developed a perturbation-based algorithm to optimize city pathfinding, analyzing cost efficiency and performance.
+   <!-- Developed a perturbation-based algorithm to optimize city pathfinding, analyzing cost efficiency and performance. -->
 
 6. **[Rao Academy](https://github.com/amograo24/RaoAcademy)**
-   - Developed a perturbation-based algorithm to optimize city pathfinding, analyzing cost efficiency and performance.
+   <!-- Developed a perturbation-based algorithm to optimize city pathfinding, analyzing cost efficiency and performance.-->
      
 7. **[BookMyShow - Database Schema](https://github.com/amograo24/BookMyShow-SQL-Project)**
-   - Developed a perturbation-based algorithm to optimize city pathfinding, analyzing cost efficiency and performance.
+   <!-- Developed a perturbation-based algorithm to optimize city pathfinding, analyzing cost efficiency and performance.-->
 
 ## 📫 Get in Touch
 Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/amog-rao) or email me at [amog.rao@plaksha.edu.in]. I'm always open to discussing new ideas and collaborations!
