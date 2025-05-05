@@ -15,8 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am **Amog Rao**, a Junior Year BTech Student at Plaksha Univesity, majoring in Computer Science and Artificial Intelligence. I am interested in anything that makes my brain sweat or has community impact. I find a good intersection in the use of **AI/ML in Healthcare or Education**! And a way to translate that interest into a meaningful outputs is to have deployable solutions, open-source projects, or research papers that could be used by the community.
+I am **Amog Rao**, a Junior Year BTech Student at Plaksha Univesity, majoring in Computer Science and Artificial Intelligence. I am interested in anything that makes my brain sweat or has community impact. I find a good intersection in the use of **AI/ML in Healthcare (particularly in medical imaging)**! And a way to translate that interest into a meaningful outputs is to have deployable solutions, open-source projects, or research papers that could be used by the community.
 
+Two of my most recent deep learning projects revolve around **Lesion Segmentation in Neonatal DWIs** and **Bone Suppression for Pneumothorax Segmentation**. Will post more on these soon!
 I am currently working on two Deep Learning projects that revolve around (1) **Geospatial Analysis of Lakes** and (2) **Lesion Segmentation within Neonatal Brains**.
 
 ## 🌱 Interests
@@ -24,7 +25,8 @@ I am currently working on two Deep Learning projects that revolve around (1) **G
 - Deep Learning
 - Computer Vision
 - AI in Health
-- AI in Education
+- Medical Imaging
+- Applied Research
 - Product Development
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=amograo24&theme=highcontrast)](https://streak-stats.demolab.com?user=amograo24&theme=highcontrast)
@@ -41,7 +43,7 @@ I am currently working on two Deep Learning projects that revolve around (1) **G
 ## 🚀 Projects
 Here are some of my projects:
 
-**Note to interviewers: Due to the confidentiality of certain projects and ongoing publications, only shareable components of these projects have been included on GitHub.*
+**Note to interviewers: Due to the confidentiality of certain projects and ongoing publications, only shareable projects or shareable components of these projects have been included on GitHub.*
 
 1. **[Multi-Label Urban Road Morphology Classification Using Deep Learning](https://github.com/amograo24/IISc-Road-Morphology-Classification)**
    <!--- Developed deep learning models to classify Indian road patterns, achieving improved generalizability through transfer learning and data augmentation techniques. -->
