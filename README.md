@@ -1,6 +1,8 @@
 ## Hi there 👋 I am Amog Rao
 
-This page is being re-developed.
+I am currently a visiting student researcher at the Department of Computer Vision at MBZUAI (UAE).
+
+This page is currently in the process of being re-developed and updated.
 <!--
 **amograo24/amograo24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
